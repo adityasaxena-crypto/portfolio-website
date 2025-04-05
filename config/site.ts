@@ -8,7 +8,7 @@ export const siteConfig = {
   links: {
     github: "https://github.com/adityasaxena-crypto",
   },
-  ogImage: "aditya-img.jpg",
+  ogImage: "https://asset.cloudinary.com/dzmfq22kt/c0ac36e82d2a2a080c6675e21ef49464",
   keywords: [
     "Aditya Saxena",
     "Aditya Saxena Portfolio",
