@@ -119,18 +119,13 @@ export default function IndexPage() {
                 <Icons.gitHub className="w-4 h-4 mr-2" /> GitHub
               </Link>
             </AnimatedText>
-            <AnimatedText delay={0.8}>
+            <AnimatedText delay={0.6}>
               <Link
-                href={"/contact"}
-                rel="noreferrer"
-                className={cn(
-                  buttonVariants({
-                    variant: "outline",
-                    size: "lg",
-                  })
-                )}
+                href={"https://drive.google.com/file/d/1ziZoYCO1vgt3QYLDIGWqxfb-VDKfpW07/view?usp=sharing"}
+                target="_blank"
+                className={cn(buttonVariants({ size: "lg" }))}
               >
-                <Icons.contact className="w-4 h-4 mr-2" /> Contact
+                <Icons.laptop className="w-4 h-4 mr-2" /> Resume
               </Link>
             </AnimatedText>
           </div>
