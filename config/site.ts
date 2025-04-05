@@ -4,7 +4,7 @@ export const siteConfig = {
   username: "aditya.saxena",
   description:
     "Aditya Saxena is a Full Stack Developer, who loves to build web applications and is passionate about learning new technologies.",
-  url: "https://nbarkiya.xyz",
+  url: "https://adityasaxena.in/",
   links: {
     github: "https://github.com/adityasaxena-crypto",
   },
