@@ -81,7 +81,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       >
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="aurora"
           enableSystem
           themes={[
             "light",
